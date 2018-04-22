@@ -20,6 +20,7 @@ import javax.swing.JButton;
  * sont statiques.
  * Cette classe fait appel à la classe JTextFieldLimit.
  */
+  //Quentin SAMA
 public class Attribut {
   
     /**
