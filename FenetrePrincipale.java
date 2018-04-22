@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package vue;
-
 import controleur.Connexion;
 import controleur.ListeControlesAction;
 import javax.swing.JFrame;
