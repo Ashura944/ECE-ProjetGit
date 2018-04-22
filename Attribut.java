@@ -31,8 +31,10 @@ public class Attribut {
      * @param JTextField champ (le champ sur lequel appliquer les propriétés).
      * @param int x (longeur du champ - toujours 30 en largeur).
      * @param int nb (nombre de caractères autorisé).
+     
 
      */
+    //Quentin sama
     static void proprieteChamp (JTextField champ, int x, int nb)
     {
         Font police = new Font("Arial", Font.BOLD, 14);
