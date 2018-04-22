@@ -35,6 +35,7 @@ public class Attribut {
      */
     static void proprieteChamp (JTextField champ, int x, int nb)
     {
+        //Permet de changer la police d'ecriture
         Font police = new Font("Arial", Font.BOLD, 14);
         champ.setFont(police);
         // Si le composant n'a pas de parent, on utilise setSize(), sinon
